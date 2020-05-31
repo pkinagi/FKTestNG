@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13351" started-at="2020-05-31T07:10:51Z" finished-at="2020-05-31T07:11:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13351" started-at="2020-05-31T07:10:51Z" finished-at="2020-05-31T07:11:04Z">
+      <class name="FlipK">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:FlipK@51565ec2]" name="launchBrowser" is-config="true" duration-ms="10784" started-at="2020-05-31T07:10:51Z" finished-at="2020-05-31T07:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="cart()[pri:0, instance:FlipK@51565ec2]" name="cart" duration-ms="142" started-at="2020-05-31T07:11:01Z" finished-at="2020-05-31T07:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method status="PASS" signature="Flipkart()[pri:1, instance:FlipK@51565ec2]" name="Flipkart" duration-ms="152" started-at="2020-05-31T07:11:01Z" finished-at="2020-05-31T07:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkart -->
+        <test-method status="PASS" signature="VerifyBrowserTitle()[pri:2, instance:FlipK@51565ec2]" name="VerifyBrowserTitle" duration-ms="72" started-at="2020-05-31T07:11:02Z" finished-at="2020-05-31T07:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBrowserTitle -->
+        <test-method status="PASS" signature="SearchProduct()[pri:3, instance:FlipK@51565ec2]" name="SearchProduct" duration-ms="2138" started-at="2020-05-31T07:11:02Z" finished-at="2020-05-31T07:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+      </class> <!-- FlipK -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
